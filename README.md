@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <br>
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100">
-  <img src="https://giphy.com/stickers/devrock-code-edr-escueladevrock-Ri2TUcKlaOcaDBxFpY/200w.webp" width="100">
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/Ri2TUcKlaOcaDBxFpY" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/devrock-code-edr-escueladevrock-Ri2TUcKlaOcaDBxFpY">via GIPHY</a></p>
 
 
 
